@@ -3,4 +3,7 @@ Performed EDA on Placement Dataset and visualized categorical and numerical feat
 * NumPy
 * Matplotlib
 * Seaborn
-* Pandas.
+* Pandas
+
+#Dataset
+
