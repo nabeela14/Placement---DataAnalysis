@@ -5,5 +5,3 @@ Performed EDA on Placement Dataset and visualized categorical and numerical feat
 * Seaborn
 * Pandas
 
-#Dataset
-
